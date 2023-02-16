@@ -2,7 +2,7 @@
   "name": "pubnub-moderation-tool",
   "version": "1.0.2",
   "private": true,
-  "homepage": "https://pubnub.github.io/moderation-dashboard/",
+  "homepage": "https://pubnub.github.io/",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
